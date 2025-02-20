@@ -1,3 +1,11 @@
 ->Inicializa um repositorio git (utilizado apenas 1 vez)
 git init
 
+->verificar o status do repositorio
+git status
+
+->adicionar os novos arquivos no git para versionar
+git add .
+
+->salva uma versão do arquivo
+git commit -m "Porque estou salvando???"
