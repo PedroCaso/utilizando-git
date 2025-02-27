@@ -27,3 +27,6 @@ git pull
 
 ->Sincroniza sem alterar a pasta local verificando mudanças no github
 git fetch
+
+->mais comandos em https://github.com/hbons/git-cheat-sheet/blob/master/git-cheat-sheet.pdf
+
