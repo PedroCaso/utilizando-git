@@ -24,3 +24,6 @@ git push
 
 ->baixa a atualização ods arquivos do github pra uma pasta ja existente
 git pull
+
+->Sincroniza sem alterar a pasta local verificando mudanças no github
+git fetch
