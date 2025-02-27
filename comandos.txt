@@ -1,3 +1,12 @@
+->configure o pc com o nome e o email do usuario
+git config --global user.name "nome"
+git config --global user.email "email"
+
+->navegando no cmd
+cd nome-da-pasta abre              abre pasta destino
+cd ..                              volta para a pasta anterior
+cd\                                vai para o c:   
+
 ->Inicializa um repositorio git (utilizado apenas 1 vez)
 git init
 
